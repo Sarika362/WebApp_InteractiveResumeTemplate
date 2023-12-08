@@ -13,8 +13,8 @@ Contributors:
 
 
 Faza Ulfath (Captain),
-Shashank B R,
 Sarika M N,
+Shashank B R,
 Vaishnavi Krishnanand Shenvi
 
 Project Description:
